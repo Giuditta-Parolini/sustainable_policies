@@ -12,8 +12,9 @@ Many organisations make their data policies publicly available. This provides cl
 
 
 **References**
-<a id="1">[1]</a> 
+
+<a name="1">[1]</a> 
 Murugesan, S. (2008) "Harnessing Green IT: Principles and Practices," in IT Professional, vol. 10, no. 1, pp. 24-33, doi: [10.1109/MITP.2008](https://doi.org/10.1109/MITP.2008.10).
 
-<a id="2">[2]</a>
+<a name="2">[2]</a>
 Currie, A., Hsu, S. and Bergman, S. (2024). *Building Green Software: A Sustainable Approach to Software Development and Operations*, O'Reilly Media, Inc. ISBN: [1098150627](https://www.oreilly.com/library/view/building-green-software/9781098150617/).
