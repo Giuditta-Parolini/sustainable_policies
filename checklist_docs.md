@@ -8,7 +8,7 @@ From a **social perspective**, scientific organisations should not limit themsel
 
 From an **economic perspective**, data policies should give an insight into the the processes adopted by research organisations to monitor costs for data storage, management, and curation. Given the staggering increase in research data and the recommended archival time of ten years or more, the financial stability of research data management services requires a careful strategy. Drafting or revising a data policy may provide the best opportunity to discuss how an organisation intends to use economies of scale (in the cloud, in federated research infrastructures, etc.) to stabilise its financial commitments for data storage and management. It is also an opportunity to discuss how the open-knowledge commitment of publicly-funded organisations can be combined with market and non-market mechanisms, such as fee-based models, that may support research data infrastructures in the long term. 
 
-Many organisations make their data policies publicly available. This provides clarity about their approach to research data for research funders, data users, and the public at large.
+Many organisations make their data policies publicly available. This provides clarity about their approach to data for research funders, data users, and the public at large. Research organisations interested in sustainable data management should consider the public availability of their policies as an added value. It makes their data strategy transparent and it is a starting point for evaluating to what extent their practices fulfil their policy sustainability commitments.
 
 
 **References**
