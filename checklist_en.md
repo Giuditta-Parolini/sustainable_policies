@@ -5,6 +5,7 @@
 - [ ] Tracking energy consumption of the data infrastructure
 - [ ] Promoting Green IT practices (hardware/software)
 - [ ] Investing in resource-efficient data infrastructures
+- [ ] Assessing the impact on biodiversity
 
 
 ### Equity
