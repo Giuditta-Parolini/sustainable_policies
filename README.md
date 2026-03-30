@@ -9,5 +9,6 @@ The checklist provided addresses the key elements that should be included in a s
 The checklist has been developed as part of the project “Promoting sustainable data practices and infrastructures in biodiversity science” (DFG Grant No. 528674292), Giuditta Parolini, Mareike Petersen, Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science, Berlin, Germany, https://tinyurl.com/mwwnt6xu.
 
 **Licence**
+
 The checklist is licensed under a Zero-Clause BSD (https://opensource.org/license/0bsd) licence. The guide documents and the posters are licensed under CC-BY (https://creativecommons.org/licenses/by/4.0/).
 
