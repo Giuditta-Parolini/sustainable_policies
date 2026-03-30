@@ -10,5 +10,5 @@ The checklist has been developed as part of the project “Promoting sustainable
 
 **Licence**
 
-The checklist is licensed under a Zero-Clause BSD (https://opensource.org/license/0bsd) licence. The guide documents and the posters are licensed under CC-BY (https://creativecommons.org/licenses/by/4.0/).
+The checklist is licensed under a Zero-Clause BSD (https://opensource.org/license/0bsd) licence. The guide documents and the posters are licensed under CC-BY (https://creativecommons.org/licenses/by/4.0/). The English version of the poster is also available on Zenodo (https://doi.org/10.5281/zenodo.17674043).
 
